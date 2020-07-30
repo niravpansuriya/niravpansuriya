@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 <br>
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning <b>Parallel Computing</b>
+- 🌱 I’m currently learning <b>Parallel Computing</b><br>
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 <!-- - 💬 Ask me about ... -->
