@@ -9,9 +9,9 @@
 **niravpansuriya/niravpansuriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Here are some ideas to get you started:
-
+<br>
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Parallel Computing
+- 🌱 I’m currently learning <b>Parallel Computing</b>
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 <!-- - 💬 Ask me about ... -->
