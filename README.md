@@ -9,8 +9,7 @@
 **niravpansuriya/niravpansuriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Here are some ideas to get you started:
-<br>
-<!-- - 🔭 I’m currently working on ... -->
+<br> 
 - 🌱 I’m currently learning <b>Parallel Computing</b><br>
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
@@ -18,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pniravc36@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ...  -->
+- 🔭 Read fun stuffs:- https://medium.com/@pniravc36
   
